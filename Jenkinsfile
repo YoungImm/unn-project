@@ -1,6 +1,6 @@
 pipeline {
     agent any
-
+ 
     environment {
         REGISTRY = "ec2-43-201-72-172.ap-northeast-2.compute.amazonaws.com"
         PROJECT  = "unn-project"
